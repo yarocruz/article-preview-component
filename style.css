@@ -1,0 +1,17 @@
+body {
+    font-size: 13px;
+    font-family: 'Manrope', sans-serif;
+    background-color: hsl(210, 46%, 95%);
+}
+
+.card {
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 8px;
+    display: flex;
+}
+
+.card-img img{
+    border-radius: 8px;
+}
